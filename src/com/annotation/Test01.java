@@ -3,6 +3,7 @@ package com.annotation;
 import java.util.ArrayList;
 import java.util.List;
 
+//内置注解
 public class Test01 {
 
     //Override 重写的注解
